@@ -8,7 +8,7 @@ language.
 ## Status
 
 Currently, we are converting references hosted on the defunct readscheme.org to
-BibTeX files.
+BibTeX.
 
 ## Dependencies
 
@@ -60,5 +60,5 @@ entries.
 
 ## License
 
-To the extent possible under law, we has waived all copyright and related or
+To the extent possible under law, we have waived all copyright and related or
 neighboring rights to Scheme Bibliography. See LICENSE for details.
