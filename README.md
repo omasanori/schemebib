@@ -10,6 +10,11 @@ language.
 Currently, we are converting references hosted on the defunct readscheme.org to
 BibTeX files.
 
+## Dependencies
+
+- [bibclean](https://ctan.org/pkg/bibclean)
+- [bibsort](https://ctan.org/pkg/bibsort)
+
 ## Conventions for Citation Identifiers
 
 The naming conventions below is based on the [conventions used by the SeNDeComp
