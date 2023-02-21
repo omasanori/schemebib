@@ -2,9 +2,6 @@
 
 ## Scheme, Language Features, and Semantics
 
--   Ken Dickey. &ldquo;The Scheme Programming Language&rdquo;. *Computer Language*. June 1992.
--   Matthias Felleisen. &ldquo;(Y Y) Works! A Lecture on the Why of Y&rdquo;. Sept 1991.
--   R. Kent Dybvig. &ldquo;Chez Scheme User's Guide&rdquo;. 1998.
 -   Alan Bawden. &ldquo;Quasiquotation in Lisp&rdquo;. 1999.
 -   Alan Bawden. &ldquo;Quasiquotation in Lisp&rdquo;. *Partial Evaluation and Program Manipulation (PEPM99)*. 1999.
 -   Jonathan A. Rees, Norman I. Adams IV and James R. Meehan. &ldquo;The T manual&rdquo;. Yale University Computer Science Department. 1984.
