@@ -61,6 +61,10 @@ For instance:
 Otherwise, *StS:1980b* if there is no *StS:1980b*, otherwise *StS:1980c* if
 there is no *StS:1980c*, and so on.
 
+## List of Keywords
+
+- The Lambda Papers: the original Scheme reports by Steele and Sussman.
+
 ## License
 
 To the extent possible under law, we have waived all copyright and related or
