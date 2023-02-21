@@ -2,9 +2,6 @@
 
 ## Scheme, Language Features, and Semantics
 
--   Jonathan A. Rees, Norman I. Adams IV and James R. Meehan. &ldquo;The T manual&rdquo;. Yale University Computer Science Department. 1984.
--   Stephen Slade. &ldquo;The T Programming Language: A Dialect of LISP&rdquo;. 1987.
--   Olin Shivers. &ldquo;History of T&rdquo;. 2001.
 -   Christian Queinnec and Pierre Weis. &ldquo;Programmation applicative, état des lieux et perspectives&rdquo;. *Technique et science informatiques*. 15(7). 1996.
 -   Christian Queinnec. &ldquo;Value transforming style&rdquo;. *WSA '92--Workshop on Static Analysis*. September 1992.
 -   Christian Queinnec. &ldquo;Value transforming style&rdquo;. Laboratoire d'Informatique de l'École Polytechnique. Research Report LIX RR 92/07. May 1992.
