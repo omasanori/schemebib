@@ -69,3 +69,8 @@ there is no *StS:1980c*, and so on.
 
 To the extent possible under law, we have waived all copyright and related or
 neighboring rights to Scheme Bibliography. See LICENSE for details.
+
+## Acknowledgments
+
+Thanks to Jim Bender for the invaluable work on readscheme.org website.
+Without Jim, Scheme Bibliography would not exist.
