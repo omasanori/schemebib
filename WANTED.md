@@ -2,8 +2,6 @@
 
 ## Scheme, Language Features, and Semantics
 
--   Alan Bawden. &ldquo;Quasiquotation in Lisp&rdquo;. 1999.
--   Alan Bawden. &ldquo;Quasiquotation in Lisp&rdquo;. *Partial Evaluation and Program Manipulation (PEPM99)*. 1999.
 -   Jonathan A. Rees, Norman I. Adams IV and James R. Meehan. &ldquo;The T manual&rdquo;. Yale University Computer Science Department. 1984.
 -   Stephen Slade. &ldquo;The T Programming Language: A Dialect of LISP&rdquo;. 1987.
 -   Olin Shivers. &ldquo;History of T&rdquo;. 2001.
