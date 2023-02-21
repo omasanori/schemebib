@@ -14,6 +14,7 @@ BibTeX.
 
 - [bibclean](https://ctan.org/pkg/bibclean)
 - [bibsort](https://ctan.org/pkg/bibsort)
+- [Tectonic](https://tectonic-typesetting.github.io/)
 
 ## Conventions for Citation Identifiers
 
