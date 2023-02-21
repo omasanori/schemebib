@@ -2,7 +2,6 @@
 
 ## Scheme, Language Features, and Semantics
 
--   Christian Queinnec and Pierre Weis. &ldquo;Programmation applicative, état des lieux et perspectives&rdquo;. *Technique et science informatiques*. 15(7). 1996.
 -   Christian Queinnec. &ldquo;Value transforming style&rdquo;. *WSA '92--Workshop on Static Analysis*. September 1992.
 -   Christian Queinnec. &ldquo;Value transforming style&rdquo;. Laboratoire d'Informatique de l'École Polytechnique. Research Report LIX RR 92/07. May 1992.
 -   Suresh Jagannathan. &ldquo;Coercion as a Metaphor for Computation&rdquo;. *IEEE International Conference on Computer Languages*. August 1990.
