@@ -27,9 +27,9 @@ accordingly with RFC 2550.
 
 ### Single Author
 
-NnYYYYa, NnYYYYb, ..., where Nn is the first two letters of author's last name,
-YYYY is the year of publication, and the suffixes a, b, ..., are to distinguish
-each other with the same prefix.
+The format is *Nn:YYYYa*, *Nn:YYYYb*, ..., where Nn is the first two letters of
+author's last name, YYYY is the year of publication, and the suffixes a, b, ...,
+are to distinguish each other with the same prefix.
 
 For instance:
 
@@ -39,16 +39,16 @@ For instance:
     conference (ACM '77). Association for Computing Machinery, New
     York, NY, USA, 153–162. https://doi.org/10.1145/800179.810196
 
-*St1977a* will be assigned to this unless *St1977a* already exists. Otherwise,
-*St1977b* if there is no *St1977b*, otherwise *St1977c* if there is no
-*St1977c*, and so on.
+*St:1977a* will be assigned to this unless *St:1977a* already exists.
+Otherwise, *St:1977b* if there is no *St:1977b*, otherwise *St:1977c* if there
+is no *St:1977c*, and so on.
 
 ### Multiple Authors
 
-NnMYYYYa, NnMYYYYb, ..., where Nn is the first two letters of first author's
-last name, M is the first letter of second author's last name, YYYY is the
-year of publication, and the suffixes a, b, ..., are to distinguish each
-other with the same prefix.
+The format is *NnM:YYYYa*, *NnM:YYYYb*, ..., where Nn is the first two letters
+of first author's last name, M is the first letter of second author's last name,
+YYYY is the year of publication, and the suffixes a, b, ..., are to distinguish
+each other with the same prefix.
 
 For instance:
 
@@ -56,9 +56,9 @@ For instance:
     LISP-based microprocessor. Commun. ACM 23, 11 (Nov. 1980),
     628–645. https://doi.org/10.1145/359024.359031
 
-*StS1980a* will be assigned to this unless *StS1980a* already exists.
-Otherwise, *StS1980b* if there is no *StS1980b*, otherwise *StS1980c* if there
-is no *StS1980c*, and so on.
+*StS:1980a* will be assigned to this unless *StS:1980a* already exists.
+Otherwise, *StS:1980b* if there is no *StS:1980b*, otherwise *StS:1980c* if
+there is no *StS:1980c*, and so on.
 
 ## License
 
