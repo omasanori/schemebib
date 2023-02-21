@@ -27,9 +27,9 @@ accordingly with RFC 2550.
 
 ### Single Author
 
-NnYYYY or NnYYYYa, NnYYYYb, ..., where Nn is the first two letters of author's
-last name, and YYYY is the year of publication. The suffixes a, b, ..., are
-appended if there are more than two entries with the same NnYYYY.
+NnYYYYa, NnYYYYb, ..., where Nn is the first two letters of author's last name,
+YYYY is the year of publication, and the suffixes a, b, ..., are to distinguish
+each other with the same prefix.
 
 For instance:
 
@@ -39,15 +39,16 @@ For instance:
     conference (ACM '77). Association for Computing Machinery, New
     York, NY, USA, 153–162. https://doi.org/10.1145/800179.810196
 
-*St1977* will be assigned to the entry above if there are no other *St1977*
-entries.
+*St1977a* will be assigned to this unless *St1977a* already exists. Otherwise,
+*St1977b* if there is no *St1977b*, otherwise *St1977c* if there is no
+*St1977c*, and so on.
 
 ### Multiple Authors
 
-NnMYYYY or NnMYYYYa, NnMYYYYb, ..., where Nn is the first two letters of first
-author's last name, M is the first letter of second author's last name, and
-YYYY is the year of publication. The suffixes a, b, ..., are appended if there
-are more than two entries with the same NnMYYYY.
+NnMYYYYa, NnMYYYYb, ..., where Nn is the first two letters of first author's
+last name, M is the first letter of second author's last name, YYYY is the
+year of publication, and the suffixes a, b, ..., are to distinguish each
+other with the same prefix.
 
 For instance:
 
@@ -55,8 +56,9 @@ For instance:
     LISP-based microprocessor. Commun. ACM 23, 11 (Nov. 1980),
     628–645. https://doi.org/10.1145/359024.359031
 
-*StS1980* will be assigned to the entry above if there are no other *StS1980*
-entries.
+*StS1980a* will be assigned to this unless *StS1980a* already exists.
+Otherwise, *StS1980b* if there is no *StS1980b*, otherwise *StS1980c* if there
+is no *StS1980c*, and so on.
 
 ## License
 
