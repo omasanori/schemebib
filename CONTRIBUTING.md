@@ -4,7 +4,8 @@
 
 - [bibclean](https://ctan.org/pkg/bibclean)
 - [bibsort](https://ctan.org/pkg/bibsort)
-- [Tectonic](https://tectonic-typesetting.github.io/)
+- [citation-style-language](https://ctan.org/pkg/citation-style-language)
+- LuaLaTeX
 
 ## Conventions for Citation Identifiers
 
