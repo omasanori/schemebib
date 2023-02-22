@@ -1,6 +1,6 @@
 [{"id": "AdC:1993a",
   "type": "paper-conference",
-  "author": [{"given": "Norman I.", "family": "Adams", "suffix": "IV"},
+  "author": [{"given": "Norman", "family": "Adams"},
              {"given": "Pavel", "family": "Curtis"},
              {"given": "Mike", "family": "Spreitzer"}],
   "title":  "First-class Data-type Representations in <span style='font-variant: small-caps;'>SchemeXerox</span>",
