@@ -7,6 +7,8 @@
 
 @String{inst-NECRI = "NEC Research Institute"}
 
+@String{inst-UTAUSTIN = "University of Texas at Austin"}
+
 @String{j-SIGPLAN-LISPP = "ACM SIGPLAN Lisp Pointers"}
 
 @String{j-SIGPLAN-NOTICES = "ACM SIGPLAN Notices"}
@@ -389,13 +391,43 @@
                  continuations.",
 }
 
-@Misc{Ca:1996a,
+@MastersThesis{Ca:1996a,
   author =       "Stephen Paul Carl",
-  title =        "Syntactic Exposures - {A} Lexically-Scoped Macro
-                 Facility for Extensible Compilers",
-  note =         "Masters Thesis",
-  month =        dec,
+  title =        "{Syntactic Exposures - A Lexically-Scoped Macro
+                 Facility for Extensible Compilers}",
+  school =       inst-UTAUSTIN,
   year =         "1996",
+  month =        dec,
+  URL =          "https://www.cs.utexas.edu/ftp/garbage/carl-msthesis.ps",
+  abstract =     "This thesis describes an implementation of
+                 \textit{syntactic extensions} (or \textit{macros})
+                 which is novel in that it provides a new solution to
+                 the \textit{name capture} problem and a foundation on
+                 which to build extensible compilers through
+                 \textit{reflection on scope and context.} Syntactic
+                 extension is a powerful mechanism which can be used to
+                 extend the capabilities of a programming language by
+                 expressing new syntactic forms in terms of the base
+                 language. With the power comes a price --- used
+                 carelessly, such extensions can introduce subtle errors
+                 into a program, because traditional implementations do
+                 not respect the lexical scope of identifiers.
+                 \textit{Lexically-scoped} macro facilities were
+                 developed to ensure that lexical scope of identifiers
+                 is not violated; problems such as name capture, which
+                 can cause unexpected side effects, are thus avoided.
+                 The approach described here, called \textit{syntactic
+                 exposures,} performs syntactic extension without macro
+                 expansion; rather than replacing macro calls with macro
+                 body forms during a prepass, a macro's body expression
+                 are compiled in place at the point of call. A
+                 refinement of normal scoping mechanisms prevents name
+                 capture from occurring, and compile-time information is
+                 used to determine how to treat identifiers. These
+                 features can be exploited to write macros which act as
+                 ``hooks'' into the compiler to modify scope rules, and
+                 to perform context-sensitive analyses and
+                 optimizations.",
 }
 
 @Misc{Cl:1987a,
