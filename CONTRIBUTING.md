@@ -53,4 +53,27 @@ there is no *StS:1980c*, and so on.
 
 ## List of Keywords
 
-- The Lambda Papers: the original Scheme reports by Steele and Sussman.
+- Concurrent: Concurrent programming.
+- Continuations: Continuations and CPS.
+- Distributed: Distributed programming.
+- Education: Scheme in education.
+- Environments: Programming environments.
+- Formal Verification: Formal methods and formally verified programs.
+- GC: Garbage collection and memory management.
+- Hardware: Hardware design, Scheme Machine, etc.
+- Implementation: Implementation techniques.
+- Lambda Papers: The original Scheme reports by Steele and Sussman.
+- Logic: Logic programming.
+- Macros: Macros and metaprogramming.
+- Modules: Modules and component-oriented programming.
+- Multimedia: Graphical applications, sound programming, etc.
+- Object-oriented: Object-oriented programming.
+- Parallel: Parallel programming.
+- Partial Evaluation: Partial evaluation.
+- Pearls: Programming Pearls and Scheme Pearls.
+- Scheme Reports: The (revised) reports of algorithmic language Scheme.
+- Semantics: Semantics of programming languages.
+- Source-to-source: Compiling Scheme to C, C#, Java, JS, etc.
+- Syntax: Syntax of programming languages.
+- Types: Type systems, type checking, type inference, etc.
+- Web: Web programming, HTML, XML, JSON, HTTP, etc.
