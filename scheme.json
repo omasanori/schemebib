@@ -1,0 +1,11 @@
+[{"id": "BaC:2011a",
+  "type": "paper-conference",
+  "author": [{"given": "Eli", "family": "Barzilay"},
+             {"given": "Ryan", "family": "Culpepper"},
+             {"given": "Matthew", "family": "Flatt"}],
+  "title": "Keeping it Clean with Syntax Parameters",
+  "container-title": "Proceedings of the Workshop on Scheme and Functional Programming",
+  "issued": "2011",
+  "collection-title": "Scheme",
+  "URL": "http://www.schemeworkshop.org/2011/papers/Barzilay2011.pdf",
+  "abstract": "Racket's syntax parameters support the hygienic implementation of syntactic forms that would otherwise introduce implicit identifiers unhygienically."}]
