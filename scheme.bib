@@ -5,6 +5,8 @@
 
 @String{inst-MIT = "Massachusetts Institute of Technology"}
 
+@String{inst-NECRI = "NEC Research Institute"}
+
 @String{j-SIGPLAN-LISPP = "ACM SIGPLAN Lisp Pointers"}
 
 @String{j-SIGPLAN-NOTICES = "ACM SIGPLAN Notices"}
@@ -967,12 +969,32 @@
   year =         "1990",
 }
 
-@Misc{Ke:1997a,
+@TechReport{Ke:1997a,
   author =       "Richard A. Kelsey",
   title =        "{Pre-Scheme: A Scheme Dialect for Systems
                  Programming}",
+  institution =  inst-NECRI,
   year =         "1997",
   month =        jun,
+  abstract =     "Pre-Scheme is a statically typed dialect of Scheme
+                 that gives the programmer the efficiency and low-level
+                 machine access of C while retaining many of the
+                 desireble features of Scheme. The Pre-Scheme compiler
+                 makes use of type inference, partial evaluation and
+                 Scheme and Lisp compiler technology to compile the
+                 problematic features of Scheme, such as closures, into
+                 C code without significant run-time overhead. Use of
+                 such features in Pre-Scheme programs is restricted to
+                 those cases that can be compiled into efficient code.
+                 Type reconstruction is done using a modified
+                 Hindley-Milner algorithm that allows overloaded
+                 user-defined functions. All top-level forms in
+                 Pre-Scheme programs are evaluated at compile time,
+                 which gives the user additional control over the
+                 compiler's partial evaluation of a program. Pre-Scheme
+                 has been implemented and used to write a byte-code
+                 interpreter and associated support code for a complete
+                 Scheme implementation.",
 }
 
 @Misc{Ki:2001a,
