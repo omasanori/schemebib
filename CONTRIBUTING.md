@@ -9,7 +9,9 @@
 ## Conventions for Citation Identifiers
 
 The naming conventions below is based on the [conventions used by the SeNDeComp
-group, Missouri University of Science and Technology][conv].
+group, Missouri University of Science and Technology][conv]. There are actually
+many instances violating these rules, but still, the conventions show the
+principles.
 
 Note for editors: if it is A.D. 10000 or later, update the conventions
 accordingly with RFC 2550.
