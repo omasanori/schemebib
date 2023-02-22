@@ -1,11 +1,19 @@
 \documentclass[a4paper]{scrartcl}
+
+\usepackage{fontspec}
+\setmainfont[Ligatures=TeX]{TeX Gyre Pagella}
+\setsansfont[Ligatures=TeX]{TeX Gyre Heros}
+
 \usepackage{hyperref}
 \usepackage{microtype}
+
 \usepackage[style = ieee]{citation-style-language}
 \addbibresource{scheme.json}
+
 \title{Scheme-related Bibliographic Database}
 \author{Masanori Ogino (Editor)}
 \date{\today}
+
 \begin{document}
 \maketitle
 \nocite{*}
