@@ -6,7 +6,6 @@
   "title":  "First-class Data-type Representations in <span style='font-variant: small-caps;'>SchemeXerox</span>",
   "container-title": "Proceedings of the <span class='nocase'>ACM</span> <span class='nocase'>SIGPLAN</span> 1993 Conference on Programming Language Design and Implementation",
   "issued": "1993",
-  "ISBN":"978-0-89791-598-4",
   "collection-title": "PLDI",
   "page": "139-146",
   "URL": "https://dl.acm.org/doi/10.1145/155090.155103",
