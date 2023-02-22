@@ -50,8 +50,3 @@ For instance:
 *StS:1980a* will be assigned to this unless *StS:1980a* already exists.
 Otherwise, *StS:1980b* if there is no *StS:1980b*, otherwise *StS:1980c* if
 there is no *StS:1980c*, and so on.
-
-## List of Keywords
-
-- Lambda Papers: The original Scheme reports by Steele and Sussman.
-- Scheme Reports: The (revised) reports of algorithmic language Scheme.
