@@ -1,0 +1,20 @@
+- id: AdC:1993a
+  type: paper-conference
+  author:
+  - given: Norman
+    family: Adams
+  - given: Pavel
+    family: Curtis
+  - given: Mike
+    family: Spreitzer
+  title: |
+    First-class Data-type Representations in
+    <span style='font-variant: small-caps;'>SchemeXerox</span>
+  container-title: |
+    Proceedings of the <span class='nocase'>ACM</span> <span class='nocase'>SIGPLAN</span>
+    1993 Conference on Programming Language Design and Implementation
+  issued: 1993-08
+  collection-title: PLDI
+  page: 139-146
+  URL: https://dl.acm.org/doi/10.1145/155090.155103
+  DOI: 10.1145/155090.155103
