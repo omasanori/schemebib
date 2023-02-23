@@ -14,31 +14,6 @@
   publisher: Massachusetts Institute of Technology
   issued: 1975-12-01
   URL: https://hdl.handle.net/1721.1/5794
-  abstract: |
-    Inspired by Actors, we have implemented an interpreter for a Lisp-like
-    language, Scheme, based on the lambda calculus, but extended for side
-    effects, multiprocessing, and process synchronization. The purpose of
-    this implementation is tutorial. We wish to:
-
-    (1) alleviate the confusion caused by Micro-Planner, Conniver, etc. by
-    clarifying the embedding of non-recursive control structures in a
-    recursive host language like Lisp.
-    (2) explaint how to use these control structures, independent of such
-    issues as pattern matching and data base manipulation.
-    (3) have a simple concrete experimental domain for certain issues of
-    programming semantics and style.
-
-    This paper is organized into sections. The first section is a short
-    "reference manual" containing specifications for all the unusual
-    features of Scheme. Next, we present a sequence of programming examples
-    which illustrate various programming styles, and how to use them. This
-    will raise certain issues of semantics which we will try to clarify with
-    lambda calculus in the third section. In the fourth section we will give a
-    general discussion of the issues facing an implementor of an interpreter
-    for a language based on lambda calculus. Finally, we will present a
-    completely annotated interpreter for Scheme, written in MacLisp, to
-    acquaint programmers with the tricks of the trade of implementing
-    non-recursive control structures in a recursive language like Lisp.
 
 # The Revised Reports on Scheme
 
@@ -56,27 +31,6 @@
   publisher: Massachusetts Institute of Technology
   issued: 1978-01-01
   URL: http://hdl.handle.net/1721.1/6283
-  abstract: |
-    Scheme is a dialect of Lisp. It is an expression-oriented, applicative
-    order, interpreter-based language which allows one to manipulate programs
-    as data. It differs from most current dialects of Lisp in that it closes
-    all lambda-expressions in the environment of their definition or
-    declaration, rather than in the execution environment. This has the
-    consequence that variables are normally lexically scoped, as in Algol.
-    However, in contrast with Algol, Scheme treats procedures as a first-class
-    data type. They can be the values of variables, the returned values of
-    procedures, and components of data structures. Another difference from Lisp
-    is that Scheme is implemented in such a way that tail-recursions execute
-    without net growth of the interpreter stack. The effect of this is that a
-    procedure call behaves like a goto, and thus procedure calls can be used to
-    implement iterations, as in Plasma.
-
-    Here we give a complete "user manual" for the Scheme language. Some
-    features described here were not documented in the original report on
-    Scheme (for instance particular macros). Other features have been added,
-    changed, or deleted as our understanding of certain language issues
-    evolved. Annotations to the manual describe the motivations for these
-    changes.
 
 - id: Cl:1985a
   type: report
