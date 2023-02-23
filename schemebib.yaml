@@ -23,12 +23,38 @@
     suffix: Jr.
   - given: Gerald Jay
     family: Sussman
-  title: "<span class='nocase'>Lambda</span>: The Ultimate Imperative"
+  title: "Lambda: The Ultimate Imperative"
   collection-title: "AI Memos"
   number: AIM-353
   publisher: Massachusetts Institute of Technology
-  issued: 1976-03-10
+  issued: 1976-03
   URL: http://hdl.handle.net/1721.1/5790
+
+- id: St:1976a
+  type: report
+  author:
+  - given: Guy Lewis
+    family: Steele
+    suffix: Jr.
+  title: "Lambda: The Ultimate Declarative"
+  collection-title: "AI Memos"
+  number: AIM-379
+  publisher: Massachusetts Institute of Technology
+  issued: 1976-11
+  URL: http://hdl.handle.net/1721.1/6091
+
+- id: St:1977a
+  type: report
+  author:
+  - given: Guy Lewis
+    family: Steele
+    suffix: Jr.
+  title: "Debunking the 'Expensive Procedure Call' Myth, or, Procedure Call Implementations Considered Harmful, or, Lambda: The Ultimate GOTO"
+  collection-title: "AI Memos"
+  number: AIM-443
+  publisher: Massachusetts Institute of Technology
+  issued: 1977-10
+  URL: http://hdl.handle.net/1721.1/5753
 
 # The Revised Reports on Scheme
 
