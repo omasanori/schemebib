@@ -6,11 +6,11 @@
   - given: Alonzo
     family: Church
   title: "The Calculi of Lambda Conversion"
-  collection-title: Annals of Mathematics Studies
+  collection-title: "Annals of Mathematics Studies"
   number: "AM-6"
-  publisher: Princeton University Press
-  issued: 1985-01-21
+  issued: "1985-01-21"
   original-date: "1941"
+  publisher: "Princeton University Press"
   ISBN: 978-0-691-08394-0
 
 - id: Di:1965a
@@ -22,10 +22,30 @@
   container-title: Communications of the ACM
   volume: 8
   issue: 9
-  issued: 1965-09
   page: 569
+  issued: "1965-09"
+  publisher: "Association for Computing Machinery"
+  publisher-place: "New York, NY, USA"
   DOI: 10.1145/365559.365617
   URL: https://dl.acm.org/doi/10.1145/365559.365617
+
+- id: Fi:1972a
+  type: conference-paper
+  author:
+  - given: Michael J.
+    family: Fischer
+  title: "Lambda Calculus Schemata"
+  container-title: "Proceedings of ACM Conference on Proving Assertions about Programs"
+  page: 104-109
+  issued: "1972-01-06"
+  publisher: "Association for Computing Machinery"
+  publisher-place: "New York, NY, USA"
+  event-title: "ACM Conference on Proving Assertions about Programs"
+  event-date: "1972-01-06/1972-01-07"
+  event-place: "Las Cruces, New Mexico, USA"
+  ISBN: 978-1-4503-7891-8
+  DOI: 10.1145/800235.807077
+  URL: https://dl.acm.org/doi/10.1145/800235.807077
 
 - id: BoW:1973a
   type: article-journal
@@ -35,11 +55,13 @@
   - given: Ben
     family: Wegbreit
   title: "A Model and Stack Implementation of Multiple Environments"
-  container-title: Communications of the ACM
+  container-title: "Communications of the ACM"
   volume: 16
   issue: 10
   page: 591-603
-  issued: 1973-10
+  issued: "1973-10"
+  publisher: "Association for Computing Machinery"
+  publisher-place: "New York, NY, USA"
   DOI: 10.1145/362375.362379
   URL: https://dl.acm.org/doi/10.1145/362375.362379
 
@@ -201,7 +223,7 @@
   - given: William
     family: Clinger
   title: "Revised<sup>3</sup> Report on the Algorithmic Language <span class='nocase'>Scheme</span>"
-  container-title: "<span class='nocase'>ACM SIGPLAN</span> Notices"
+  container-title: "ACM SIGPLAN Notices"
   volume: 21
   issue: 12
   page: 37-79
@@ -252,7 +274,7 @@
   - given: William
     family: Clinger
   title: "Revised<sup>4</sup> Report on the Algorithmic Language <span class='nocase'>Scheme</span>"
-  container-title: "<span class='nocase'>ACM SIGPLAN</span> Lisp Pointers"
+  container-title: "ACM SIGPLAN Lisp Pointers"
   volume: IV
   issue: 3
   page: 1-55
@@ -358,7 +380,7 @@
   - given: Jonathan
     family: Rees
   title: "Revised<sup>5</sup> Report on the Algorithmic Language <span class='nocase'>Scheme</span>"
-  container-title: "<span class='nocase'>ACM SIGPLAN</span> Notices"
+  container-title: "ACM SIGPLAN Notices"
   volume: 33
   issue: 9
   page: 26-76
