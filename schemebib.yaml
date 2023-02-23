@@ -1,20 +1,181 @@
-- id: AdC:1993a
-  type: paper-conference
+# The (revised) Reports on Scheme
+
+- id: SuS:1975a
+  type: report
   author:
+  - given: Gerald Jay
+    family: Sussman
+  - given: Guy Lewis
+    family: Steele
+    suffix: Jr.
+  title: "<span class='nocase'>Scheme</span>: An Interpreter for Extended Lambda Calculus"
+  collection-title: "AI Memos"
+  number: AIM-349
+  publisher: Massachusetts Institute of Technology
+  issued: 1975-12-01
+  URL: https://hdl.handle.net/1721.1/5794
+
+- id: SuS:1978a
+  type: report
+  author:
+  - given: Gerald Jay
+    family: Sussman
+  - given: Guy Lewis
+    family: Steele
+    suffix: Jr.
+  title: "The Revised Report on <span class='nocase'>Scheme</span>, A Dialect of <span class='nocase'>Lisp</span>"
+  collection-title: "AI Memos"
+  number: AIM-452
+  publisher: Massachusetts Institute of Technology
+  issued: 1978-01-01
+  URL: http://hdl.handle.net/1721.1/6283
+
+- id: Cl:1985a
+  type: report
+  author:
+  - given: Hal
+    family: Abelson
   - given: Norman
     family: Adams
-  - given: Pavel
-    family: Curtis
-  - given: Mike
-    family: Spreitzer
-  title: |
-    First-class Data-type Representations in
-    <span style='font-variant: small-caps;'>SchemeXerox</span>
-  container-title: |
-    Proceedings of the <span class='nocase'>ACM</span> <span class='nocase'>SIGPLAN</span>
-    1993 Conference on Programming Language Design and Implementation
-  issued: 1993-08
-  collection-title: PLDI
-  page: 139-146
-  URL: https://dl.acm.org/doi/10.1145/155090.155103
-  DOI: 10.1145/155090.155103
+  - given: David
+    family: Bartley
+  - given: Gary
+    family: Brooks
+  - given: Dan
+    family: Friedman
+  - given: Robert
+    family: Halstead
+  - given: Chris
+    family: Hanson
+  - given: Chris
+    family: Haynes
+  - given: Eugene
+    family: Kohlbecker
+  - given: Don
+    family: Oxley
+  - given: Kent
+    family: Pitman
+  - given: Jonathan
+    family: Rees
+  - given: Bill
+    family: Rozas
+  - given: Gerald Jay
+    family: Sussman
+  - given: Mitchell
+    family: Wand
+  editor:
+  - given: William
+    family: Clinger
+  title: "The Revised Revised Report on <span class='nocase'>Scheme</span> or An <span class='nocase'>UnCommon Lisp</span>"
+  collection-title: "AI Memos"
+  number: AIM-848
+  publisher: Massachusetts Institute of Technology
+  issued: 1985-08-01
+  URL: http://hdl.handle.net/1721.1/5600
+
+- id: SuS:1998a
+  type: article-journal
+  author:
+  - given: Gerald Jay
+    family: Sussman
+  - given: Guy Lewis
+    family: Steele
+    suffix: Jr.
+  title: "The First Report on <span class='nocase'>Scheme</span> Revisited"
+  container-title: "Higher-Order and Symbolic Computation"
+  volume: 11
+  issue: 4
+  page: 399-404
+  issued: 1998-12
+  DOI: 10.1023/A:1010079421970
+  URL: https://link.springer.com/article/10.1023/A:1010079421970
+
+- id: SuS:1998b
+  type: article-journal
+  author:
+  - given: Gerald Jay
+    family: Sussman
+  - given: Guy Lewis
+    family: Steele
+    suffix: Jr.
+  title: "Scheme: An Interpreter for Extended Lambda Calculus"
+  container-title: "Higher-Order and Symbolic Computation"
+  volume: 11
+  issue: 4
+  page: 405-439
+  issued: 1998-12
+  DOI: 10.1023/A:1010035624696
+  URL: https://link.springer.com/article/10.1023/A:1010035624696
+
+- id: ReC:1986a
+  type: article-journal
+  author:
+  - given: H.
+    family: Abelson
+  - given: N. I.
+    family: Adams
+    suffix: IV
+  - given: D. H.
+    family: Bartley
+  - given: G.
+    family: Brooks
+  - given: R. K.
+    family: Dybvig
+  - given: D. P.
+    family: Friedman
+  - given: R.
+    family: Halstead
+  - given: C.
+    family: Hanson
+  - given: C. T.
+    family: Haynes
+  - given: E.
+    family: Kohlbecker
+  - given: D.
+    family: Oxley
+  - given: K. M.
+    family: Pitman
+  - given: G. J.
+    family: Rozas
+  - given: G. J.
+    family: Sussman
+  - given: M.
+    family: Wand
+  editor:
+  - given: Jonathan
+    family: Rees
+  - given: William
+    family: Clinger
+  title: "Revised<sup>3</sup> Report on the Algorithmic Language <span class='nocase'>Scheme</span>"
+  container-title: "<span class='nocase'>ACM SIGPLAN</span> Notices"
+  volume: 21
+  issue: 12
+  page: 37-79
+  issued: 1986-12-01
+  DOI: 10.1145/15042.15043
+  URL: https://dl.acm.org/doi/10.1145/15042.15043
+
+#W. Clinger and J. Rees (eds.). The Revised4 Report on the Algorithmic Language
+#Scheme. _ACM Lisp Pointers_. Vol. 4, No. 3. July, 1991.
+#
+#  * [pdf](https://raw.githubusercontent.com/scheme-live/library.readscheme.org/master/repository.readscheme.org/ftp/papers/scheme_reports/r4rs.pdf)
+#  * [ps](https://raw.githubusercontent.com/scheme-live/library.readscheme.org/master/repository.readscheme.org/ftp/papers/scheme_reports/r4rs.ps.gz)
+#  * [ACM Digital Library](http://dl.acm.org/citation.cfm?id=382133)
+#
+#R. Kelsey, W. Clinger, J. Rees (eds.). The Revised5 Report on the Algorithmic
+#Language Scheme. _Higher-Order and Symbolic Computation_. Vol. 11, No. 1.
+#August, 1998.
+#
+#  * [pdf](https://raw.githubusercontent.com/scheme-live/library.readscheme.org/master/repository.readscheme.org/ftp/papers/scheme_reports/r5rs.pdf)
+#  * [pdf (journal version)](http://cs.au.dk/~hosc/local/HOSC-11-1-pp7-105.pdf)
+#  * [ps](https://raw.githubusercontent.com/scheme-live/library.readscheme.org/master/repository.readscheme.org/ftp/papers/scheme_reports/r5rs.ps.gz)
+#  * [ACM Digital Library](http://dl.acm.org/citation.cfm?id=290234)
+#
+#Michael Sperber, R. Kent Dybvig, Matthew Flatt, Anton van Straaten (eds.). The
+#Revised6 Report on the Algorithmic Language Scheme. _Journal of Functional
+#Programming_. Vol. 19 - Supplement S1. August, 2009.
+#
+#  * [pdf (main report)](https://raw.githubusercontent.com/scheme-live/library.readscheme.org/master/repository.readscheme.org/ftp/papers/scheme_reports/r6rs.pdf)
+#  * [pdf (standard libraries)](https://raw.githubusercontent.com/scheme-live/library.readscheme.org/master/repository.readscheme.org/ftp/papers/scheme_reports/r6rs-lib.pdf)
+#  * [pdf (non-normative appendices)](https://raw.githubusercontent.com/scheme-live/library.readscheme.org/master/repository.readscheme.org/ftp/papers/scheme_reports/r6rs-app.pdf)
+#  * [pdf (rationale)](https://raw.githubusercontent.com/scheme-live/library.readscheme.org/master/repository.readscheme.org/ftp/papers/scheme_reports/r6rs-rationale.pdf)
