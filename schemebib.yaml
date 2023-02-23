@@ -121,6 +121,163 @@
   DOI: 10.1145/15042.15043
   URL: https://dl.acm.org/doi/10.1145/15042.15043
 
+- id: ReC:1991a
+  type: article-journal
+  author:
+  - given: H.
+    family: Abelson
+  - given: N. I.
+    family: Adams
+    suffix: IV
+  - given: D. H.
+    family: Bartley
+  - given: G.
+    family: Brooks
+  - given: R. K.
+    family: Dybvig
+  - given: D. P.
+    family: Friedman
+  - given: R.
+    family: Halstead
+  - given: C.
+    family: Hanson
+  - given: C. T.
+    family: Haynes
+  - given: E.
+    family: Kohlbecker
+  - given: D.
+    family: Oxley
+  - given: K. M.
+    family: Pitman
+  - given: G. J.
+    family: Rozas
+  - given: G. L.
+    family: Steele
+    suffix: Jr.
+  - given: G. J.
+    family: Sussman
+  - given: M.
+    family: Wand
+  editor:
+  - given: Jonathan
+    family: Rees
+  - given: William
+    family: Clinger
+  title: "Revised<sup>4</sup> Report on the Algorithmic Language <span class='nocase'>Scheme</span>"
+  container-title: "<span class='nocase'>ACM SIGPLAN</span> Lisp Pointers"
+  volume: IV
+  issue: 3
+  page: 1-55
+  issued: 1991-07-01
+  DOI: 10.1145/382130.382133
+  URL: https://dl.acm.org/doi/10.1145/382130.382133
+
+- id: KeC:1998a
+  type: article-journal
+  author:
+  - given: H.
+    family: Abelson
+  - given: N. I.
+    family: Adams
+    suffix: IV
+  - given: D. H.
+    family: Bartley
+  - given: G.
+    family: Brooks
+  - given: R. K.
+    family: Dybvig
+  - given: D. P.
+    family: Friedman
+  - given: R.
+    family: Halstead
+  - given: C.
+    family: Hanson
+  - given: C. T.
+    family: Haynes
+  - given: E.
+    family: Kohlbecker
+  - given: D.
+    family: Oxley
+  - given: K. M.
+    family: Pitman
+  - given: G. J.
+    family: Rozas
+  - given: G. L.
+    family: Steele
+    suffix: Jr.
+  - given: G. J.
+    family: Sussman
+  - given: M.
+    family: Wand
+  editor:
+  - given: Richard
+    family: Kelsey
+  - given: William
+    family: Clinger
+  - given: Jonathan
+    family: Rees
+  title: "Revised<sup>5</sup> Report on the Algorithmic Language <span class='nocase'>Scheme</span>"
+  container-title: "Higher-Order and Symbolic Computation"
+  volume: 11
+  issue: 1
+  page: 7-105
+  issued: 1998-08
+  DOI: 10.1023/A:1010051815785
+  URL: https://link.springer.com/article/10.1023/A:1010051815785
+
+- id: KeC:1998b
+  type: article-journal
+  author:
+  - given: H.
+    family: Abelson
+  - given: N. I.
+    family: Adams
+    suffix: IV
+  - given: D. H.
+    family: Bartley
+  - given: G.
+    family: Brooks
+  - given: R. K.
+    family: Dybvig
+  - given: D. P.
+    family: Friedman
+  - given: R.
+    family: Halstead
+  - given: C.
+    family: Hanson
+  - given: C. T.
+    family: Haynes
+  - given: E.
+    family: Kohlbecker
+  - given: D.
+    family: Oxley
+  - given: K. M.
+    family: Pitman
+  - given: G. J.
+    family: Rozas
+  - given: G. L.
+    family: Steele
+    suffix: Jr.
+  - given: G. J.
+    family: Sussman
+  - given: M.
+    family: Wand
+  editor:
+  - given: Richard
+    family: Kelsey
+  - given: William
+    family: Clinger
+  - given: Jonathan
+    family: Rees
+  title: "Revised<sup>5</sup> Report on the Algorithmic Language <span class='nocase'>Scheme</span>"
+  container-title: "<span class='nocase'>ACM SIGPLAN</span> Notices"
+  volume: 33
+  issue: 9
+  page: 26-76
+  issued: 1998-09-01
+  DOI: 10.1145/290229.290234
+  URL: https://dl.acm.org/doi/10.1145/290229.290234
+
 - id: SuS:1998a
   type: article-journal
   author:
@@ -155,22 +312,6 @@
   DOI: 10.1023/A:1010035624696
   URL: https://link.springer.com/article/10.1023/A:1010035624696
 
-#W. Clinger and J. Rees (eds.). The Revised4 Report on the Algorithmic Language
-#Scheme. _ACM Lisp Pointers_. Vol. 4, No. 3. July, 1991.
-#
-#  * [pdf](https://raw.githubusercontent.com/scheme-live/library.readscheme.org/master/repository.readscheme.org/ftp/papers/scheme_reports/r4rs.pdf)
-#  * [ps](https://raw.githubusercontent.com/scheme-live/library.readscheme.org/master/repository.readscheme.org/ftp/papers/scheme_reports/r4rs.ps.gz)
-#  * [ACM Digital Library](http://dl.acm.org/citation.cfm?id=382133)
-#
-#R. Kelsey, W. Clinger, J. Rees (eds.). The Revised5 Report on the Algorithmic
-#Language Scheme. _Higher-Order and Symbolic Computation_. Vol. 11, No. 1.
-#August, 1998.
-#
-#  * [pdf](https://raw.githubusercontent.com/scheme-live/library.readscheme.org/master/repository.readscheme.org/ftp/papers/scheme_reports/r5rs.pdf)
-#  * [pdf (journal version)](http://cs.au.dk/~hosc/local/HOSC-11-1-pp7-105.pdf)
-#  * [ps](https://raw.githubusercontent.com/scheme-live/library.readscheme.org/master/repository.readscheme.org/ftp/papers/scheme_reports/r5rs.ps.gz)
-#  * [ACM Digital Library](http://dl.acm.org/citation.cfm?id=290234)
-#
 #Michael Sperber, R. Kent Dybvig, Matthew Flatt, Anton van Straaten (eds.). The
 #Revised6 Report on the Algorithmic Language Scheme. _Journal of Functional
 #Programming_. Vol. 19 - Supplement S1. August, 2009.
