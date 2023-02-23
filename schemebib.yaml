@@ -73,40 +73,6 @@
   issued: 1985-08-01
   URL: http://hdl.handle.net/1721.1/5600
 
-- id: SuS:1998a
-  type: article-journal
-  author:
-  - given: Gerald Jay
-    family: Sussman
-  - given: Guy Lewis
-    family: Steele
-    suffix: Jr.
-  title: "The First Report on <span class='nocase'>Scheme</span> Revisited"
-  container-title: "Higher-Order and Symbolic Computation"
-  volume: 11
-  issue: 4
-  page: 399-404
-  issued: 1998-12
-  DOI: 10.1023/A:1010079421970
-  URL: https://link.springer.com/article/10.1023/A:1010079421970
-
-- id: SuS:1998b
-  type: article-journal
-  author:
-  - given: Gerald Jay
-    family: Sussman
-  - given: Guy Lewis
-    family: Steele
-    suffix: Jr.
-  title: "Scheme: An Interpreter for Extended Lambda Calculus"
-  container-title: "Higher-Order and Symbolic Computation"
-  volume: 11
-  issue: 4
-  page: 405-439
-  issued: 1998-12
-  DOI: 10.1023/A:1010035624696
-  URL: https://link.springer.com/article/10.1023/A:1010035624696
-
 - id: ReC:1986a
   type: article-journal
   author:
@@ -154,6 +120,40 @@
   issued: 1986-12-01
   DOI: 10.1145/15042.15043
   URL: https://dl.acm.org/doi/10.1145/15042.15043
+
+- id: SuS:1998a
+  type: article-journal
+  author:
+  - given: Gerald Jay
+    family: Sussman
+  - given: Guy Lewis
+    family: Steele
+    suffix: Jr.
+  title: "The First Report on <span class='nocase'>Scheme</span> Revisited"
+  container-title: "Higher-Order and Symbolic Computation"
+  volume: 11
+  issue: 4
+  page: 399-404
+  issued: 1998-12
+  DOI: 10.1023/A:1010079421970
+  URL: https://link.springer.com/article/10.1023/A:1010079421970
+
+- id: SuS:1998b
+  type: article-journal
+  author:
+  - given: Gerald Jay
+    family: Sussman
+  - given: Guy Lewis
+    family: Steele
+    suffix: Jr.
+  title: "Scheme: An Interpreter for Extended Lambda Calculus"
+  container-title: "Higher-Order and Symbolic Computation"
+  volume: 11
+  issue: 4
+  page: 405-439
+  issued: 1998-12
+  DOI: 10.1023/A:1010035624696
+  URL: https://link.springer.com/article/10.1023/A:1010035624696
 
 #W. Clinger and J. Rees (eds.). The Revised4 Report on the Algorithmic Language
 #Scheme. _ACM Lisp Pointers_. Vol. 4, No. 3. July, 1991.
