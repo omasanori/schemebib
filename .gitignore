@@ -1,4 +1,5 @@
 *.aux
+*.json
 *.log
 *.out
 *.pdf
