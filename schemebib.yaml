@@ -12,8 +12,23 @@
   collection-title: "AI Memos"
   number: AIM-349
   publisher: Massachusetts Institute of Technology
-  issued: 1975-12-01
+  issued: 1975-12
   URL: https://hdl.handle.net/1721.1/5794
+
+- id: SuS:1976a
+  type: report
+  author:
+  - given: Guy Lewis
+    family: Steele
+    suffix: Jr.
+  - given: Gerald Jay
+    family: Sussman
+  title: "<span class='nocase'>Lambda</span>: The Ultimate Imperative"
+  collection-title: "AI Memos"
+  number: AIM-353
+  publisher: Massachusetts Institute of Technology
+  issued: 1976-03-10
+  URL: http://hdl.handle.net/1721.1/5790
 
 # The Revised Reports on Scheme
 
