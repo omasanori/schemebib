@@ -1,4 +1,4 @@
-# The (Revised) Reports on Scheme
+# The Lambda Papers
 
 - id: SuS:1975a
   type: report
@@ -14,6 +14,8 @@
   publisher: Massachusetts Institute of Technology
   issued: 1975-12-01
   URL: https://hdl.handle.net/1721.1/5794
+
+# The Revised Reports on Scheme
 
 - id: SuS:1978a
   type: report
