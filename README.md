@@ -13,7 +13,12 @@ BibTeX.
 ## License
 
 To the extent possible under law, we have waived all copyright and related or
-neighboring rights to Scheme Bibliography. See LICENSE for details.
+neighboring rights to Scheme Bibliography. See `LICENSE` for details.
+
+The `acm.csl` citation style file is released by the
+[Citation Style Language](https://citationstyles.org/) project under the
+[Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+See `acm.csl.license` for details.
 
 ## Acknowledgments
 

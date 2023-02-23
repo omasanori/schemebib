@@ -1,9 +1,9 @@
 .POSIX:
 .SUFFIXES:
 
-all: schemebib.json
-	lualatex test
-	lualatex test
+all: schemebib.json schemebib.tex
+	lualatex schemebib
+	lualatex schemebib
 
 clean:
 	rm -f *.aux *.json *.log *.out *.pdf
