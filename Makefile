@@ -1,7 +1,9 @@
 .POSIX:
 .SUFFIXES:
 
-all: schemebib.json schemebib.tex
+all: schemebib.pdf
+
+schemebib.pdf: schemebib.tex schemebib.json
 	lualatex schemebib
 	lualatex schemebib
 
