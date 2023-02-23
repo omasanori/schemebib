@@ -1,3 +1,34 @@
+# Predecessors of Scheme
+
+- id: Al:1941a
+  type: book
+  author:
+  - given: Alonzo
+    family: Church
+  title: "The Calculi of Lambda Conversion"
+  collection-title: Annals of Mathematics Studies
+  number: "AM-6"
+  publisher: Princeton University Press
+  issued: 1985-01-21
+  original-date: "1941"
+  ISBN: 978-0-691-08394-0
+
+- id: BoW:1973a
+  type: article-journal
+  author:
+  - given: Daniel G.
+    family: Bobrow
+  - given: Ben
+    family: Wegbreit
+  title: "A Model and Stack Implementation of Multiple Environments"
+  container-title: Communications of the ACM
+  volume: 16
+  issue: 10
+  page: 591-603
+  issued: 1973-10
+  DOI: 10.1145/362375.362379
+  URL: https://dl.acm.org/doi/10.1145/362375.362379
+
 # The Lambda Papers
 
 - id: SuS:1975a
@@ -421,3 +452,4 @@
 # Scheme Workshop
 
 # Others
+
