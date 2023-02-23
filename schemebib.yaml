@@ -13,6 +13,20 @@
   original-date: "1941"
   ISBN: 978-0-691-08394-0
 
+- id: Di:1965a
+  type: article-journal
+  author:
+  - given: E. W.
+    family: Dijkstra
+  title: "Solution of a Problem in Concurrent Programming Control"
+  container-title: Communications of the ACM
+  volume: 8
+  issue: 9
+  issued: 1965-09
+  page: 569
+  DOI: 10.1145/365559.365617
+  URL: https://dl.acm.org/doi/10.1145/365559.365617
+
 - id: BoW:1973a
   type: article-journal
   author:
