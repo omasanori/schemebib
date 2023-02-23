@@ -1,4 +1,4 @@
-# The (revised) Reports on Scheme
+# The (Revised) Reports on Scheme
 
 - id: SuS:1975a
   type: report
@@ -312,11 +312,65 @@
   DOI: 10.1023/A:1010035624696
   URL: https://link.springer.com/article/10.1023/A:1010035624696
 
-#Michael Sperber, R. Kent Dybvig, Matthew Flatt, Anton van Straaten (eds.). The
-#Revised6 Report on the Algorithmic Language Scheme. _Journal of Functional
-#Programming_. Vol. 19 - Supplement S1. August, 2009.
-#
-#  * [pdf (main report)](https://raw.githubusercontent.com/scheme-live/library.readscheme.org/master/repository.readscheme.org/ftp/papers/scheme_reports/r6rs.pdf)
-#  * [pdf (standard libraries)](https://raw.githubusercontent.com/scheme-live/library.readscheme.org/master/repository.readscheme.org/ftp/papers/scheme_reports/r6rs-lib.pdf)
-#  * [pdf (non-normative appendices)](https://raw.githubusercontent.com/scheme-live/library.readscheme.org/master/repository.readscheme.org/ftp/papers/scheme_reports/r6rs-app.pdf)
-#  * [pdf (rationale)](https://raw.githubusercontent.com/scheme-live/library.readscheme.org/master/repository.readscheme.org/ftp/papers/scheme_reports/r6rs-rationale.pdf)
+- id: SpD:2009a
+  type: article-journal
+  author:
+  - given: Robby
+    family: Findler
+  - given: Jacob
+    family: Matthews
+  editor:
+  - given: Michael
+    family: Sperber
+  - given: R. Kent
+    family: Dybvig
+  - given: Matthew
+    family: Flatt
+  - given: Anton
+    non-dropping-particle: van
+    family: Straaten
+  title: "Revised<sup>6</sup> Report on the Algorithmic Language Scheme"
+  container-title: "Journal of Functional Programming"
+  volume: 19
+  issue: S1
+  volume-title: Supplement
+  page: 1-301
+  issued: 2009-08-01
+  DOI: 10.1017/S0956796809990074
+  URL: https://www.cambridge.org/core/journals/journal-of-functional-programming/article/revised6-report-on-the-algorithmic-language-scheme/4896B66B864A3D40FFA508528F2A3FD7
+
+- id: ShC:2013a
+  type: report
+  author:
+  - given: Steven
+    family: Ganz
+  - given: Aaron W.
+    family: Hsu
+  - given: Bradley
+    family: Lucier
+  - given: Emmanuel
+    family: Medernach
+  - given: Alexey
+    family: Radul
+  - given: Jeffrey T.
+    family: Read
+  - given: David
+    family: Rush
+  - given: Benjamin L.
+    family: Russel
+  - given: Olin
+    family: Shivers
+  - given: Alaric
+    family: Snell-Pym
+  - given: Gerald J.
+    family: Sussman
+  editor:
+  - given: Alex
+    family: Shinn
+  - given: John
+    family: Cowan
+  - given: Arthur A.
+    family: Gleckler
+  title: "Revised<sup>7</sup> Report on the Algorithmic Language Scheme"
+  issued: 2013-07-06
+  URL: https://small.r7rs.org/attachment/r7rs.pdf
