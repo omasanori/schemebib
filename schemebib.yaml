@@ -56,6 +56,27 @@
   publisher: Massachusetts Institute of Technology
   issued: 1978-01-01
   URL: http://hdl.handle.net/1721.1/6283
+  abstract: |
+    Scheme is a dialect of Lisp. It is an expression-oriented, applicative
+    order, interpreter-based language which allows one to manipulate programs
+    as data. It differs from most current dialects of Lisp in that it closes
+    all lambda-expressions in the environment of their definition or
+    declaration, rather than in the execution environment. This has the
+    consequence that variables are normally lexically scoped, as in Algol.
+    However, in contrast with Algol, Scheme treats procedures as a first-class
+    data type. They can be the values of variables, the returned values of
+    procedures, and components of data structures. Another difference from Lisp
+    is that Scheme is implemented in such a way that tail-recursions execute
+    without net growth of the interpreter stack. The effect of this is that a
+    procedure call behaves like a goto, and thus procedure calls can be used to
+    implement iterations, as in Plasma.
+
+    Here we give a complete "user manual" for the Scheme language. Some
+    features described here were not documented in the original report on
+    Scheme (for instance particular macros). Other features have been added,
+    changed, or deleted as our understanding of certain language issues
+    evolved. Annotations to the manual describe the motivations for these
+    changes.
 
 - id: Cl:1985a
   type: report
