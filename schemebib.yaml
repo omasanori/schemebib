@@ -10,7 +10,7 @@
     suffix: Jr.
   title: "<span class='nocase'>Scheme</span>: An Interpreter for Extended Lambda Calculus"
   collection-title: "AI Memos"
-  number: 349
+  number: AIM-349
   publisher: Massachusetts Institute of Technology
   issued: 1975-12-01
   URL: https://hdl.handle.net/1721.1/5794
@@ -27,7 +27,7 @@
     suffix: Jr.
   title: "The Revised Report on <span class='nocase'>Scheme</span>, A Dialect of <span class='nocase'>Lisp</span>"
   collection-title: "AI Memos"
-  number: 452
+  number: AIM-452
   publisher: Massachusetts Institute of Technology
   issued: 1978-01-01
   URL: http://hdl.handle.net/1721.1/6283
@@ -70,7 +70,7 @@
     family: Clinger
   title: "The Revised Revised Report on <span class='nocase'>Scheme</span> or An <span class='nocase'>UnCommon Lisp</span>"
   collection-title: "AI Memos"
-  number: 848
+  number: AIM-848
   publisher: Massachusetts Institute of Technology
   issued: 1985-08-01
   URL: http://hdl.handle.net/1721.1/5600
