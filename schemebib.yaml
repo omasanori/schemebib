@@ -37,11 +37,11 @@
   title: "Lambda Calculus Schemata"
   container-title: "Proceedings of ACM Conference on Proving Assertions about Programs"
   page: 104-109
-  issued: "1972-01-06"
+  issued: "1972-01"
   publisher: "Association for Computing Machinery"
   publisher-place: "New York, NY, USA"
-  event-title: "ACM Conference on Proving Assertions about Programs"
   event-date: "1972-01-06/1972-01-07"
+  event-title: "ACM Conference on Proving Assertions about Programs"
   event-place: "Las Cruces, New Mexico, USA"
   ISBN: 978-1-4503-7891-8
   DOI: 10.1145/800235.807077
